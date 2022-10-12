@@ -1,5 +1,5 @@
 # Learn React by Building Netflix.
-#### Home Page
+<h1>Home Page</h1>
 <p align="center"><img src="/Netflix_pics/profile.png" alt="Tesla Clone Homepage Screenshot" width="550" /></p>
 <h1>Sign In</h1>
 <p align="center"><img src="/Netflix_pics/Screenshot_2.png" alt="Tesla Clone Homepage Screenshot" width="550" /></p>
